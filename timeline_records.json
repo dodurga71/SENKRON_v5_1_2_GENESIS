@@ -1,0 +1,50 @@
+{
+  "total_records": 7,
+  "mean_accuracy": 0.255,
+  "mean_novelty": 20.28,
+  "collective_resonance": 0.5,
+  "records": [
+    {
+      "date": "2025-10-30",
+      "tps": 0.017,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Kendini yeniden kalibre et, dönüşüm yavaş ilerliyor."
+    },
+    {
+      "date": "2025-10-31",
+      "tps": 0.058,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Kendini yeniden kalibre et, dönüşüm yavaş ilerliyor."
+    },
+    {
+      "date": "2025-11-01",
+      "tps": 0.303,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Kendini yeniden kalibre et, dönüşüm yavaş ilerliyor."
+    },
+    {
+      "date": "2025-11-02",
+      "tps": 0.528,
+      "energy_mode": "Denge Modu",
+      "suggestion": "İçsel sessizlikte dış değişimi fark et."
+    },
+    {
+      "date": "2025-11-03",
+      "tps": 0.526,
+      "energy_mode": "Denge Modu",
+      "suggestion": "İçsel sessizlikte dış değişimi fark et."
+    },
+    {
+      "date": "2025-11-04",
+      "tps": 0.298,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Kendini yeniden kalibre et, dönüşüm yavaş ilerliyor."
+    },
+    {
+      "date": "2025-11-05",
+      "tps": 0.054,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Kendini yeniden kalibre et, dönüşüm yavaş ilerliyor."
+    }
+  ]
+}

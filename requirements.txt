@@ -1,0 +1,17 @@
+﻿pandas
+numpy
+duckdb
+clickhouse-connect
+fastapi
+uvicorn
+pydantic
+requests
+pgmpy
+networkx
+matplotlib
+jinja2
+python-dotenv
+arxiv
+pyyaml
+beautifulsoup4
+openai

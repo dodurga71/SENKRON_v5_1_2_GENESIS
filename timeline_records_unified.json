@@ -1,0 +1,83 @@
+{
+  "unified_timeline": [
+    {
+      "date": "2025-10-29",
+      "tps": NaN,
+      "energy_mode": NaN,
+      "suggestion": NaN,
+      "topic": "Nazal metformin-kurkumin taÅŸÄ±ma Ã§alÄ±ÅŸmasÄ±",
+      "accuracy": 88.0,
+      "novelty": 76.0
+    },
+    {
+      "date": "2025-10-30",
+      "tps": 0.174,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    },
+    {
+      "date": "2025-10-31",
+      "tps": 0.378,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    },
+    {
+      "date": "2025-11-01",
+      "tps": 0.438,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    },
+    {
+      "date": "2025-11-02",
+      "tps": 0.299,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    },
+    {
+      "date": "2025-11-03",
+      "tps": 0.089,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    },
+    {
+      "date": "2025-11-04",
+      "tps": 0.001,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    },
+    {
+      "date": "2025-11-05",
+      "tps": 0.115,
+      "energy_mode": "Düşük Enerji",
+      "suggestion": "Dinlen, yeniden şarj ol, içe dön.",
+      "topic": NaN,
+      "accuracy": NaN,
+      "novelty": NaN
+    }
+  ],
+  "summary": {
+    "total_records": 8,
+    "mean_accuracy": 88.0,
+    "mean_novelty": 76.0,
+    "mean_tps": 0.213,
+    "time_span_days": 8
+  }
+}

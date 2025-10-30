@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-10-29T23:38:01.950973+00:00",
+  "CAI": 100.0,
+  "skyfield": {
+    "engine": "skyfield:de421.bsp",
+    "timestamp": "2025-10-29T23:38:01.950973+00:00",
+    "planets": {
+      "Sun": {
+        "lon": 216.807,
+        "retro": false
+      },
+      "Moon": {
+        "lon": 310.359,
+        "retro": false
+      },
+      "Mercury": {
+        "lon": 240.528,
+        "retro": false
+      },
+      "Venus": {
+        "lon": 200.046,
+        "retro": false
+      },
+      "Mars": {
+        "lon": 236.034,
+        "retro": false
+      },
+      "Jupiter": {
+        "lon": 114.888,
+        "retro": false
+      },
+      "Saturn": {
+        "lon": 355.891,
+        "retro": true
+      }
+    }
+  },
+  "swiss": {
+    "engine": "swisseph",
+    "timestamp": "2025-10-29T23:38:01.950973+00:00",
+    "planets": {
+      "Sun": {
+        "lon": 216.807,
+        "retro": false
+      },
+      "Moon": {
+        "lon": 310.359,
+        "retro": false
+      },
+      "Mercury": {
+        "lon": 240.528,
+        "retro": false
+      },
+      "Venus": {
+        "lon": 200.046,
+        "retro": false
+      },
+      "Mars": {
+        "lon": 236.034,
+        "retro": false
+      },
+      "Jupiter": {
+        "lon": 114.888,
+        "retro": false
+      },
+      "Saturn": {
+        "lon": 355.891,
+        "retro": true
+      }
+    }
+  },
+  "diff": {
+    "Sun": 0.0,
+    "Moon": 0.0,
+    "Mercury": 0.0,
+    "Venus": 0.0,
+    "Mars": 0.0,
+    "Jupiter": 0.0,
+    "Saturn": 0.0
+  }
+}

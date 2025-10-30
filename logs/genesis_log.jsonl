@@ -1,0 +1,80 @@
+{"timestamp":"2025-10-29T20:44:59","message":"=== GENESIS LOOP START ==="}
+{"timestamp":"2025-10-29T20:44:59","message":"?? Ephemeris Engine bulunamadi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\ephemeris_engine.py"}
+{"timestamp":"2025-10-29T20:44:59","message":"?? Timeline Engine baslatiliyor..."}
+{"timestamp":"2025-10-29T20:45:03","message":"? Timeline Engine tamamlandi."}
+{"timestamp":"2025-10-29T20:45:03","message":"?? AI Learner bulunamadi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\ai_learner.py"}
+{"timestamp":"2025-10-29T20:45:03","message":"?? Prediction Verifier bulunamadi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\prediction_verifier.py"}
+{"timestamp":"2025-10-29T20:45:03","message":"?? Reflection Visualizer baslatiliyor..."}
+{"timestamp":"2025-10-29T20:45:06","message":"? Reflection Visualizer tamamlandi."}
+{"timestamp":"2025-10-29T20:45:06","message":"=== GENESIS LOOP COMPLETE � Conscious State Synchronized ==="}
+{"timestamp":"2025-10-29T20:55:10","message":"=== GENESIS LOOP START ==="}
+{"timestamp":"2025-10-29T20:55:10","message":"?? Ephemeris Engine bulunamadi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\ephemeris_engine.py"}
+{"timestamp":"2025-10-29T20:55:10","message":"?? Timeline Engine baslatiliyor..."}
+{"timestamp":"2025-10-29T20:55:15","message":"? Timeline Engine tamamlandi."}
+{"timestamp":"2025-10-29T20:55:15","message":"?? AI Learner bulunamadi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\ai_learner.py"}
+{"timestamp":"2025-10-29T20:55:16","message":"?? Prediction Verifier bulunamadi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\prediction_verifier.py"}
+{"timestamp":"2025-10-29T20:55:16","message":"?? Reflection Visualizer baslatiliyor..."}
+{"timestamp":"2025-10-29T20:55:20","message":"? Reflection Visualizer tamamlandi."}
+{"timestamp":"2025-10-29T20:55:20","message":"=== GENESIS LOOP COMPLETE � Conscious State Synchronized ==="}
+{"timestamp": "2025-10-29T20:57:10", "module": "ephemeris_engine", "message": "ℹ️ Skyfield unavailable: Skyfield not available"}
+{"timestamp": "2025-10-29T20:57:10", "module": "ephemeris_engine", "message": "🛟 Failsafe engine used (deterministic placeholder)."}
+{"timestamp": "2025-10-29T20:57:10", "module": "ephemeris_engine", "message": "✅ Ephemeris snapshot written."}
+{"timestamp": "2025-10-29T20:57:10", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-29T21:25:40", "module": "ephemeris_engine", "message": "ℹ️ Skyfield unavailable: cannot import name 'ecliptic_frame' from 'skyfield.api' (C:\\Users\\onur5\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\skyfield\\api.py)"}
+{"timestamp": "2025-10-29T21:25:40", "module": "ephemeris_engine", "message": "🛟 Failsafe engine used (deterministic placeholder)."}
+{"timestamp": "2025-10-29T21:25:40", "module": "ephemeris_engine", "message": "✅ Ephemeris snapshot written."}
+{"timestamp": "2025-10-29T21:25:40", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-29T21:27:54", "module": "ephemeris_engine", "message": "ℹ️ Skyfield unavailable: cannot import name 'ecliptic_frame' from 'skyfield.api' (C:\\Users\\onur5\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\skyfield\\api.py)"}
+{"timestamp": "2025-10-29T21:27:54", "module": "ephemeris_engine", "message": "🛟 Failsafe engine used (deterministic placeholder)."}
+{"timestamp": "2025-10-29T21:27:54", "module": "ephemeris_engine", "message": "✅ Ephemeris snapshot written."}
+{"timestamp": "2025-10-29T21:27:54", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-29T21:56:17", "module": "ephemeris_engine", "message": "⚠️ Skyfield failed: No BSP found in ephemeris/"}
+{"timestamp": "2025-10-30T01:41:39", "module": "ephemeris_engine", "message": "✨ Ephemeris Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T01:41:39", "module": "ephemeris_engine", "message": "⚠️ Skyfield failed: No BSP found in ephemeris/"}
+{"timestamp": "2025-10-30T01:41:39", "module": "ephemeris_engine", "message": "⚠️ SwissEphem yüklü değil."}
+{"timestamp": "2025-10-30T01:41:39", "module": "ephemeris_engine", "message": "🛟 Failsafe engine used."}
+{"timestamp": "2025-10-30T01:41:39", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-30T01:44:40", "module": "ephemeris_engine", "message": "✨ Ephemeris Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T01:44:40", "module": "ephemeris_engine", "message": "🛰️ Skyfield OK (skyfield:de421.bsp)"}
+{"timestamp": "2025-10-30T01:44:40", "module": "ephemeris_engine", "message": "⚠️ SwissEphem yüklü değil."}
+{"timestamp": "2025-10-30T01:48:21", "module": "ephemeris_engine", "message": "✨ Ephemeris Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T01:48:21", "module": "ephemeris_engine", "message": "🛰️ Skyfield OK (skyfield:de421.bsp)"}
+{"timestamp": "2025-10-30T01:48:21", "module": "ephemeris_engine", "message": "⚠️ SwissEphem yüklü değil."}
+{"timestamp": "2025-10-30T01:48:21", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-30T02:33:13", "module": "ephemeris_engine", "message": "✨ Ephemeris Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T02:33:13", "module": "ephemeris_engine", "message": "⚠️ Skyfield yüklü değil."}
+{"timestamp": "2025-10-30T02:33:13", "module": "ephemeris_engine", "message": "⚠️ SwissEphem failed: module 'swisseph' has no attribute 'FLG_ECLIPTIC'"}
+{"timestamp": "2025-10-30T02:33:13", "module": "ephemeris_engine", "message": "🛟 Failsafe engine used."}
+{"timestamp": "2025-10-30T02:33:13", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-30T02:36:04", "module": "ephemeris_engine", "message": "✨ Ephemeris Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T02:36:04", "module": "ephemeris_engine", "message": "⚠️ Skyfield yüklü değil."}
+{"timestamp": "2025-10-30T02:36:04", "module": "ephemeris_engine", "message": "🛰️ SwissEphem OK"}
+{"timestamp": "2025-10-30T02:36:04", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-30T02:38:01", "module": "ephemeris_engine", "message": "✨ Ephemeris Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T02:38:02", "module": "ephemeris_engine", "message": "🛰️ Skyfield OK (skyfield:de421.bsp)"}
+{"timestamp": "2025-10-30T02:38:02", "module": "ephemeris_engine", "message": "🛰️ SwissEphem OK"}
+{"timestamp": "2025-10-30T02:38:02", "module": "ephemeris_engine", "message": "🔎 Celestial Accuracy Index: 100.000"}
+{"timestamp": "2025-10-30T02:38:02", "module": "ephemeris_engine", "message": "✅ ephemeris_engine tamamlandı."}
+{"timestamp": "2025-10-30T02:59:28", "module": "ai_learner", "message": "✨ AI Learner Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T03:00:44", "module": "ai_learner", "message": "✨ AI Learner Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T03:02:55", "module": "ai_learner", "message": "✨ AI Learner Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T03:02:55", "module": "ai_learner", "message": "🧠 Awareness Gradient (α) = 0.2364"}
+{"timestamp": "2025-10-30T03:02:55", "module": "ai_learner", "message": "✅ AI Learner tamamlandı."}
+{"timestamp": "2025-10-30T03:25:45", "module": "timeline_engine_unified", "message": "✨ Unified Timeline Engine başlatılıyor..."}
+{"timestamp": "2025-10-30T03:25:45", "module": "timeline_engine_unified", "message": "🕒 Unified timeline_records_unified.json oluşturuldu. (α=0.213, acc=88.0, nov=76.0)"}
+{"timestamp": "2025-10-30T03:25:45", "module": "timeline_engine_unified", "message": "✅ Unified Timeline Engine tamamlandı."}
+{"timestamp": "2025-10-30T03:28:57", "module": "timeline_engine", "message": "✨ Timeline Engine başlatılıyor... (Full Solar System Edition)"}
+{"timestamp": "2025-10-30T03:28:57", "module": "timeline_engine", "message": "🕒 timeline_records.json oluşturuldu. (mean_acc=0.255, novelty=20.28, CRI=0.5)"}
+{"timestamp": "2025-10-30T03:28:57", "module": "timeline_engine", "message": "✅ Timeline Engine tamamlandı."}
+{"timestamp": "2025-10-30T03:33:12", "module": "timeline_engine", "message": "✨ Timeline Engine başlatılıyor... (Full Solar System Edition)"}
+{"timestamp": "2025-10-30T03:33:12", "module": "timeline_engine", "message": "🕒 timeline_records.json oluşturuldu. (mean_acc=0.255, novelty=20.28, CRI=0.5)"}
+{"timestamp": "2025-10-30T03:33:12", "module": "timeline_engine", "message": "✅ Timeline Engine tamamlandı."}
+{"timestamp": "2025-10-30T03:38:06", "module": "chronomatrix_visualizer", "message": "✨ ChronoMatrix Visualizer başlatılıyor..."}
+{"timestamp": "2025-10-30T03:38:11", "module": "chronomatrix_visualizer", "message": "⚠️ PNG üretimi başarısız: ('The browser seemed to close immediately after starting.', 'You can set the `logging.Logger` level lower to see more output.', 'You may try installing a known working copy of Chrome by running ', '`$ choreo_get_chrome`. It may be your copy auto-updated.')"}
+{"timestamp": "2025-10-30T03:38:11", "module": "chronomatrix_visualizer", "message": "✅ Interaktif HTML üretildi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\chronomatrix.html"}
+{"timestamp": "2025-10-30T03:38:11", "module": "chronomatrix_visualizer", "message": "🎯 ChronoMatrix görselleştirme tamamlandı."}
+{"timestamp": "2025-10-30T03:38:11", "module": "chronomatrix_visualizer", "message": "✅ chronomatrix_visualizer tamamlandı."}
+{"timestamp": "2025-10-30T03:42:37", "module": "chronomatrix_visualizer_safe", "message": "✨ ChronoMatrix Visualizer (Safe) başlatılıyor..."}
+{"timestamp": "2025-10-30T03:42:38", "module": "chronomatrix_visualizer_safe", "message": "✅ Interaktif HTML üretildi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\chronomatrix_safe.html"}
+{"timestamp": "2025-10-30T03:42:44", "module": "chronomatrix_visualizer_safe", "message": "✅ Statik PNG üretildi: C:\\Users\\onur5\\SENKRON_v4_1_5_CLEAN\\chronomatrix_safe.png"}
+{"timestamp": "2025-10-30T03:42:44", "module": "chronomatrix_visualizer_safe", "message": "🎯 chronomatrix_visualizer_safe tamamlandı."}
